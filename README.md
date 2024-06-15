@@ -27,18 +27,18 @@ RESERVERINGEN
 
 
 ## Chauffeurs-ADMIN 
-TARIEVEN
+### TARIEVEN
 - vast
 	> maparea-to-schiphol
 	> schiphol-to-maparea
 - DYNAMISCH (berekend op basis van afstand, start-tarief, km-prijs en prijs-per-minuut)
 
-- RESERVERINGEN
+### RESERVERINGEN
 	> bedrag per reservering
 	> totaal bedrag (per dag, per maand, per week, per chauffeur, ect ??)
 
 
-Naam suggesties:
+# Naam suggesties:
 Naam suggesties:
 Elementary
 Shortcut
