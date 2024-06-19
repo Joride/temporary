@@ -52,4 +52,14 @@ RESERVERINGEN
 * Rembrandt
 * Pineapple
 * Flexago
-* Greenpurple
+~~* Greenpurple~~
+* Roadshow
+
+# TODO
+- understand how to use Leaf to build a FE
+- understand authentication & authorization
+- understand how to set up various environments (dev, testing, demo, prod)
+- understand deployments
+- understand reverting code
+- understand revering DB changes
+- back-up / disaster recovery
