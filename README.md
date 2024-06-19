@@ -60,6 +60,7 @@ RESERVERINGEN
 - understand authentication & authorization
 - understand how to set up various environments (dev, testing, demo, prod)
 - understand deployments / pipeline
+- updating packages
 - understand reverting code
 - understand revering DB changes
 - back-up / disaster recovery
